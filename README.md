@@ -1,25 +1,8 @@
-# Little Sera Club Games!
+# Little Sera Club Games! (Modified version)
 
-### Recommended Use:
-**FUSAM Integration**: https://sidiousious.gitlab.io/bc-addon-loader/
-This addon allows you to enable/disable many other mods from a single location, including LSCG.
+Here you will not find the original mod, but a bundled version that provides an interface better adapted to be use with Themed mod and UBC features related to background.
 
-### TamperMonkey install:
-**Stable:** 
-https://github.com/littlesera/LSCG/raw/main/lscgLoader.user.js
-
-**Dev:** 
-https://github.com/littlesera/LSCG/raw/dev/lscgLoader-dev.user.js
-
-### Bookmark:
-**Stable:** 
-```
-javascript:(()=>{fetch('https://littlesera.github.io/LSCG/bundle.js').then(r=>r.text()).then(r=>eval(r));})();
-```
-**Dev:**
-```
-javascript:(()=>{fetch('https://littlesera.github.io/LSCG/dev/bundle.js').then(r=>r.text()).then(r=>eval(r));})();
-```
+All the rest of the code is unchanged and can be found on the original site: https://github.com/littlesera/LSCG
 
 ## **Wiki Help**
 
